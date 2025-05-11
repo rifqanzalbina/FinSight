@@ -6,3 +6,5 @@ from .loan_repayment_calculator import LoanRepaymentCalculator
 from .net_worth_calculator import NetWorthCalculator
 from .financial_goal_planner import FinancialGoalPlanner
 from .currency_converter import CurrencyConverter
+from .tax_estimator import TaxEstimator
+from .debt_manager import DebtManager
